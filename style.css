@@ -58,7 +58,7 @@ main {
     align-items: center;
     justify-content: space-between;
     
-    /* animation: teste 700ms; */
+    animation: teste 700ms;
     /*delay carregamento na página*/
 }
 
@@ -137,7 +137,7 @@ footer a:hover {
 
 /* Delay carregamento na página */
 
-/* 
+
 main .girl{
     animation: teste 700ms 200ms backwards;
    }
@@ -152,4 +152,4 @@ main .girl{
       opacity: 1;
       transform: translateX(0);
     }
-  } */
+  }
